@@ -7,7 +7,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://payush890.github.io/Calculator/)
+[Check out the website here](https://calculator-2212.netlify.app/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
